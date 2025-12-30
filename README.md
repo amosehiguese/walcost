@@ -1,3 +1,11 @@
+<br/>
+
+<div align="center">
+  Like this project ? Leave us a star ⭐
+</div>
+
+<br/>
+
 <div align="center">
   <picture>
     <img alt="Walcost Logo" src="./public/walcost.webp" width="280"/>
@@ -7,7 +15,6 @@
 <h3 align="center">
   Deterministic Cost Estimator and Analyzer for the Walrus
 </h3>
-<br/>
 <p align="center">
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/license-apache-blue" alt="Apache License">
@@ -19,6 +26,13 @@
 
   Built to be **fast, transparent, and engineer-friendly**, WalCost helps you make informed decisions when designing storage systems.
 
+---
+<br/>
+
+
+<p align="center">
+  <img src="public/walcost-home.webp" alt="Application Banner" width="640" >
+</p>
 
 
 
