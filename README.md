@@ -1,8 +1,26 @@
-# WalCost
+<div align="center">
+  <picture>
+    <img alt="Walcost Logo" src="./public/walcost.webp" width="280"/>
+  </picture>
+</div>
 
-**WalCost** is an open-source, deterministic cost estimator and analyzer for the Walrus decentralized storage protocol. It allows developers and system designers to measure, visualize, and plan storage costs on Walrus with real, on-chain data.
+<h3 align="center">
+  Deterministic Cost Estimator and Analyzer for the Walrus
+</h3>
+<br/>
+<p align="center">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/license-apache-blue" alt="Apache License">
+  </a>
+</p>
 
-Built to be **fast, transparent, and engineer-friendly**, WalCost helps you make informed decisions when designing storage systems.
+
+  An open-source, deterministic cost estimator and analyzer for the Walrus decentralized storage protocol. It allows developers and system designers to measure, visualize, and plan storage costs on Walrus with real, on-chain data. 
+
+  Built to be **fast, transparent, and engineer-friendly**, WalCost helps you make informed decisions when designing storage systems.
+
+
+
 
 ---
 

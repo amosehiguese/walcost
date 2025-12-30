@@ -21,12 +21,9 @@ export default function Header() {
 
   return (
     <header className="border-b border-gray-200 bg-white sticky top-0 z-50">
-      <div className="max-w-7xl mx-auto px-4 md:px-8 h-[60px] flex items-center justify-between">
+      <div className="max-w-7xl mx-auto px-4 md:px-0 h-[60px] flex items-center justify-between">
         <div className="flex items-center gap-2 z-10">
-          <div className="w-3 h-3 bg-gray-900 rounded-sm"></div>
-          <h1 className="text-sm font-bold tracking-tight uppercase text-gray-900">
-            Walrus <span className="text-gray-400 font-normal">/ Estimator</span>
-          </h1>
+          <img src="/walcost.webp" alt="Walcost Logo" className='h-12'/>
         </div>
 
         <nav className="hidden md:flex items-center space-x-8">
